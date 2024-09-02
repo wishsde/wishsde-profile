@@ -1,18 +1,36 @@
--👋 Hi, I'm @wish-395 (Vishal Waghmare)
+👋 Hi, I'm @wishsde (Vishal Waghmare)
 
--👀 I'm interested in Full Stack Web Development, Next.js, Node.js, Docker, Cloud Computing, AI-ML and RPA.
+🌟 Innovative Software Developer | Open Source Contributor | Creating Scalable Solutions
 
--🌱 I'm currently learning and exploring new technologies like Blockchain, Serverless computing, Generative AI and Python 
+👀 I'm interested in Full Stack Web Development, Next.js, Node.js, Docker, Cloud Computing, AI-ML, and RPA.
 
--💞 I'm looking to collaborate on innovative projects that leverage my skills in Full Stack Development, Tech Content Writing, and Technical Enthusiasm.
+🌱 I'm currently learning and exploring new technologies like Blockchain, Serverless Computing, Generative AI, and Python.
 
--📫 How to reach me: vishalwaghmare2051@gmail.com or connect with me on LinkedIn: https://www.linkedin.com/in/vishal-waghmare-33a01522b/  or connect with me on X: https://x.com/Wish_395
+💼 With over 1 year of experience in developing dynamic and scalable applications, I have a strong foundation in JavaScript, React, Node.js, Next.js, and Python. My career has been enriched by roles at industry leaders such as Blackbird, J.P. Morgan, HPE, and Cognizant, where I delivered high-impact solutions and honed my technical skills.
 
--😄 Pronouns: He/Him
+💞 I'm looking to collaborate on innovative projects that leverage my skills in Full Stack Development, Tech Content Writing, and Technical Enthusiasm.
 
--⚡ Fun fact: I'm passionate about staying up-to-date with the latest technologies and trends, and I enjoy writing tech content and exploring new innovations in the field. 
 
-<!---
-wish-395/wish-395 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💼 Professional Experience:
+
+Smit IT: Spearheaded the development and maintenance of software applications, integrating responsive designs and scalable solutions to optimize user experiences.
+SmartKnower: Contributed to diverse projects using HTML, CSS, JavaScript, React, Angular, Node.js, and Express.js, enhancing real-world applications.
+ProAzure Software Solutions Pvt. Ltd.: Acquired hands-on experience with HTML, CSS, JavaScript, React, RPA, AWS, and Git, focusing on responsive designs and API integration.
+
+
+💡 Highlighted Project:
+
+Modern Responsive Web Design: Developed a fully responsive website, ensuring a seamless experience across various devices from desktops to mobile phones.
+
+
+📚 Education & Certifications:
+
+Bachelor’s Degree in Electronics and Telecommunications Engineering (Pursuing) from Savitribai Phule Pune University (SPPU)
+Certifications: Agile Methodology, Back-End Engineering, Software Engineering, and more from Cognizant, Lyft, JPMorgan Chase, Walmart Global Tech India, and Accenture.
+Driven by a passion for continuous learning and staying updated with industry trends, I aim to leverage my skills and experience to drive innovation and contribute to cutting-edge projects.
+
+📫 How to reach me: wishsde@gmail.com or connect with me on LinkedIn ( https://www.linkedin.com/in/wish-software-developer/ ) or X ( https://x.com/wishsde )
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: I'm passionate about staying up-to-date with the latest technologies and trends, and I enjoy writing tech content and exploring new innovations in the field.

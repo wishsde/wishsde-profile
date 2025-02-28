@@ -1,4 +1,4 @@
-👋 Hi, I'm @wishsde (Vishal Waghmare)
+👋 Hi, I'm @wishsde 
 
 🌟 Innovative Software Developer | Open Source Contributor | Creating Scalable Solutions
 
@@ -6,7 +6,7 @@
 
 🌱 I'm currently learning and exploring new technologies like Blockchain, Serverless Computing, Generative AI, and Python.
 
-💼 With over 1 year of experience in developing dynamic and scalable applications, I have a strong foundation in JavaScript, React, Node.js, Next.js, and Python. My career has been enriched by roles at industry leaders such as Blackbird, J.P. Morgan, HPE, and Cognizant, where I delivered high-impact solutions and honed my technical skills.
+💼 With over 2 year of experience in developing dynamic and scalable applications, I have a strong foundation in JavaScript, React, Node.js, Next.js, and Python. My career has been enriched by roles at industry leaders such as Blackbird, J.P. Morgan, HPE, and Cognizant, where I delivered high-impact solutions and honed my technical skills.
 
 💞 I'm looking to collaborate on innovative projects that leverage my skills in Full Stack Development, Tech Content Writing, and Technical Enthusiasm.
 
@@ -29,7 +29,7 @@ Bachelor’s Degree in Electronics and Telecommunications Engineering (Pursuing)
 Certifications: Agile Methodology, Back-End Engineering, Software Engineering, and more from Cognizant, Lyft, JPMorgan Chase, Walmart Global Tech India, and Accenture.
 Driven by a passion for continuous learning and staying updated with industry trends, I aim to leverage my skills and experience to drive innovation and contribute to cutting-edge projects.
 
-📫 How to reach me: wishsde@gmail.com or connect with me on LinkedIn ( https://www.linkedin.com/in/wish-software-developer/ ) or X ( https://x.com/wishsde )
+📫 How to reach me: wishsde@gmail.com or connect with me on LinkedIn ( (https://www.linkedin.com/in/wish-sde/) ) or X ( https://x.com/wishsde )
 
 😄 Pronouns: He/Him
 
